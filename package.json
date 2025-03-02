@@ -1,4 +1,5 @@
-me": "react-vite-essentials",
+{
+  "name": "react-vite-essentials",
   "private": true,
   "version": "0.0.0",
   "type": "module",
