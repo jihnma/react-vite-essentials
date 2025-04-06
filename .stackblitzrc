@@ -1,0 +1,3 @@
+{
+  "startCommand": "rm -rf .github && rm renovate.json && rm README.md"
+}
