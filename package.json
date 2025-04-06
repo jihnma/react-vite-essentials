@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "preinstall": "rm -rf ./.github && rm ./renovate.json && rm ./README.md",
     "dev": "vite",
     "build": "vite build",
     "format": "prettier -c .",
